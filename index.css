@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+
+}
+
+
+
+#logo {
+    max-width: 200px;
+    padding: 30px;
+   
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#logosubtittle {
+    color: #004d4c;
+    background-color: #fdfbf1;
+    border-top: 2px solid #ffd877;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: bolder;
+    display: flex;
+    text-align: center;
+
+    
+}
+
+
+#foto {
+     max-height: 600px;
+     border-radius: 10px 10px 10px 10px; 
+}
+
+ #author {
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+    
+ }
+
+ #featured { 
+    color: rgb(181 70 15);
+    font-weight: bold;
+    border-left: 3px solid #ffd877 ;
+    margin-left: 20%;
+    display: flex;
+    padding: 10px;
+
+ }
+
+ #blocco {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+ }
+
+h3, ul, ol {
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: bolder;
+}
+
+footer {
+padding: 5px;
+}
+
+#paragrafo {
+    padding-left: 30px;
+}
+
+a.colore {color:rgb(16 119 119);}
+
+
+
+
+ 
+
+
+
+
